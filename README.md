@@ -19,3 +19,6 @@ The below research papers are for reference-
 1. Where to put the Image in an Image Caption Generator (https://arxiv.org/abs/1703.09137)
 2. Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics
 (https://www.ijcai.org/Proceedings/15/Papers/593.pdf)
+
+
+#MNIST image processing - Model evaluation code is also included as seperate file
