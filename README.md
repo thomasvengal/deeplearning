@@ -21,4 +21,4 @@ The below research papers are for reference-
 (https://www.ijcai.org/Proceedings/15/Papers/593.pdf)
 
 
-#MNIST image processing - Model evaluation code is also included as seperate file
+# MNIST image processing - Model evaluation code is also included as seperate file
